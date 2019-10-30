@@ -1,1 +1,1 @@
-Project for the Web Engeering course @ ETH Zurich
+Project 1 for the Web Engeering course @ ETH Zurich
